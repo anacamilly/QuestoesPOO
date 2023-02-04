@@ -1,4 +1,4 @@
-package questoes4;
+package questoes3;
 
 public class Brinquedo {
 }
